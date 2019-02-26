@@ -1,0 +1,6 @@
+R_LIBS=/software/R_libs/R351_bioc37
+#R_LIBS=/software/R_libs/R344_bioc37
+#R_LIBS=/software/R_libs/R342_bioc36
+#R_LIBS=/software/R_libs/R340_bioc35
+#R_LIBS=/software/R_libs/R332_bioc34
+#R_LIBS=/software/R_libs/R3.3.2
